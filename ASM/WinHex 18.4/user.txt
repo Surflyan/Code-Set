@@ -1,0 +1,8 @@
+// WinHex license file
+
+Name: "ygeR/ZWT"
+Addr1: "ygeR@teamzwt.com"
+Addr2: "TEAM ZWT"
+Key1: "E035A8AD5A9C5710C254B07D57937F7E"
+Key2: "357623DE9E56C2B04D60FB772829DA47"
+Chksm: "FB"
