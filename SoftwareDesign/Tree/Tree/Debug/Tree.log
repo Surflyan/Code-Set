@@ -1,0 +1,6 @@
+﻿  clue_binary_tree.cpp
+c:\users\surflyan\documents\visual studio 2015\projects\tree\tree\clue_binary_tree.cpp(76): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+c:\users\surflyan\documents\visual studio 2015\projects\tree\tree\clue_binary_tree.cpp(78): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+c:\users\surflyan\documents\visual studio 2015\projects\tree\tree\clue_binary_tree.cpp(88): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+  Tree.vcxproj -> C:\Users\Surflyan\documents\visual studio 2015\Projects\Tree\Debug\Tree.exe
+  Tree.vcxproj -> C:\Users\Surflyan\documents\visual studio 2015\Projects\Tree\Debug\Tree.pdb (Partial PDB)
